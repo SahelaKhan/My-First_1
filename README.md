@@ -2,7 +2,7 @@
 Starting my first git repository...
 <br>
 Author: Reetu
-# Hi there 👋, I'm Sahela Khan  
+# Hi there 👋, I'm Reetu.........  
 
 🎓 Undergraduate Student at **BRAC University**  
 💡 Passionate about learning, coding, and exploring new technologies  
