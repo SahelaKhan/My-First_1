@@ -4,10 +4,9 @@ Starting my first git repository...
 Author: Reetu
 # Hi there 👋, I'm Reetu.........  
 
-🎓 Undergraduate Student at **BRAC University**  
-💡 Passionate about learning, coding, and exploring new technologies  
-🌱 Currently improving my skills in **Python**  
-⚡ Love to work on projects that combine creativity and logic  
+🎓 Undergraduate Student  
+💡 Passionate about learning and exploring new technologies    
+
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=FF33D1&width=500&lines=Believe+in+yourself;Dream+big+work+hard;Code+is+poetry;Progress+not+perfection;&center=true&font=Fira+Code"> </p>
 ---
