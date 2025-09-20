@@ -12,21 +12,11 @@ Author: Reetu
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=FF33D1&width=500&lines=Believe+in+yourself;Dream+big+work+hard;Code+is+poetry;Progress+not+perfection;&center=true&font=Fira+Code"> </p>
 ---
 
-## 🛠️ Skills & Tools  
-- Programming: Python 
-- Web: HTML | CSS  
-- Tools: Git | GitHub | VS Code  
-
----
-
-## 📊 GitHub Stats  
-![Sahela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahela-Khan&show_icons=true&theme=radical)  
-
 ---
 
 ## 🌐 Connect with Me  
-- 📧 Email: sahela.khan.2109@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/sahela-khan-retu-996273351/  
+- 📧 Email: shahelakhan54@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sahela-khan-retu-b99b822a0/  
 
 ---
-✨ *“Code. Learn. Grow.”*  
+
