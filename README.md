@@ -9,6 +9,9 @@ Author: Reetu
 🌱 Currently improving my skills in **Python**  
 ⚡ Love to work on projects that combine creativity and logic  
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=cc33ff&width=1000&height=45&lines=Have+faith+in+GOD+and+rely+on+yourself;GO+WITH+THE+FLOW,+TOP+OF+THE+LINE....;&center=true"> </p>
+
+
 ---
 
 ## 🛠️ Skills & Tools  
